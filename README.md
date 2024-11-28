@@ -40,6 +40,8 @@ The code for this question is in the file `ex2.c`.
 
 ## Question 3:
 
+The code for this question is in the file `ex3.c`.
+
 ### **How to Compile and Run**
 
 1. Ensure you are on a **Linux system** with **GCC** installed.
@@ -61,6 +63,8 @@ The protocol would need a header, the address to identify the destination board,
 [Protocol Example](./payload.svg)
 
 ### Practical part:
+
+The code for this question is in the file `ex4.c`.
 
 ### **How to Compile and Run**
 
